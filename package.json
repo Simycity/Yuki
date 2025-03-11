@@ -1,5 +1,5 @@
 {
-  "name": "lbot-whatsapp",
+  "name": "Yuki",
   "version": "2.10.8",
   "description": "Bot brasileiro para Whatsapp com diversas utilidades para o dia-a-dia.",
   "type": "module",
@@ -8,9 +8,9 @@
     "start": "yarn upgrade @victorsouzaleal/lbot-api-comandos --silent && node app.js",
     "dev": "node app.js"
   },
-  "author": "Leal",
+  "author": "コーヒー☕",
   "license": "MIT",
-  "repository": "git+https://github.com/victorsouzaleal/lbot-whatsapp.git",
+  "repository": "git+https://github.com/Simycity/Yuki.git",
   "keywords": [
     "whatsapp",
     "whatsapp-bot",
